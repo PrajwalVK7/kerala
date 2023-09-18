@@ -1,0 +1,93 @@
+body{
+    /* background-color: #557C83; */
+    /* background-color: #434738; */
+    /* background-color: black; */
+    background-color: #1A2239;
+    /* color: #000; */
+    /* color: #f7f7f7; */
+    color: #F0F0F0;
+}
+#nav {
+    /* color: #002B5B; */
+    /* background-color: #256D85; */
+    /* background-color: #282828; */
+    /* background-color: #323232; */
+    background-color: #1A2239;
+
+
+    color: #F0F0F0;
+
+
+
+}
+#nav a{    color: #F0F0F0;
+}
+
+#s2{
+
+}
+#dest{
+    /* background-color: #2B4865; */
+    /* background-color: #557C83; */
+    /* background-color: #434738; */
+    /* background-color: black; */
+    /* background-color: #282828; */
+    background-color: #eeedee;
+    color: #25385d;
+
+
+}
+#places{
+    /* background-color: #256D85; */
+    /* background-color: #3AADA8; */
+    /* background-color: #b5d43b; */
+    /* background: #087099; */
+    /* background-color: #323232; */
+    /* background-color: #eeedee; */
+    background-color: #bab6b7;
+    color: #000;
+    border-style:hidden;
+    border-radius: 5px;
+
+
+
+    
+    box-shadow: 2px 2px 12px 0px rgba(191,228,240,0.3);
+    -webkit-box-shadow: 2px 2px 12px 0px rgba(191,228,240,0.3);
+    -moz-box-shadow: 2px 2px 12px 0px rgba(191,228,240,0.3);
+
+
+
+
+    
+}
+
+#places h2{
+    /* background-color: #002B5B; */
+    /* background-color: #A2D5AC; */
+    /* background-color: #d9ef82; */
+    /* background-color: #507829; */
+    /* background-color: #DCD427; */
+    /* background-color: #0092CC; */
+    /* background-color: #ffbcac; */
+    background-color: #1A2239;
+
+    /* color: #25385d; */
+    color: #F0F0F0;
+
+
+}
+.shdw{
+    box-shadow: rgba(255, 255, 255, 0.1)
+    0px 1px 1px 0px inset, rgba(50, 50, 93, 0.25)
+    0px 50px 100px -20px, rgba(0, 0, 0, 0.3)
+    0px 30px 60px ;
+    border-radius: 10px 10px;
+}
+
+
+.pl_img{
+    border-radius: 10px;
+    box-shadow:inset;
+
+}

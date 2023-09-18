@@ -1,0 +1,98 @@
+ #nav{
+    background-color: #3F8A89;
+
+    /* background: #123A38; */
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+}
+
+
+#header_bd {
+background-color: #123A38;
+color: white;
+}
+
+
+.kerala_intro{
+    /* background-color: #4CA771; */
+    background-color: #123A38;
+    color: white;
+}
+.kerala_intro p{
+    text-align: justify;
+}
+#Title{
+    font-size: 20px;
+}
+
+#cardlink{
+    text-decoration: none;
+    color: black;
+    
+}
+
+#cardlink:hover{
+    color: olivedrab;
+}
+
+#exp{
+    /* background-color: #C0E6BA; */
+    background-color: #3F8A64;
+    border: solid;
+    border-radius: 20px;
+    border-color: white;
+    border-style:inset;
+    box-sizing: inherit;
+}
+
+.mt-5{
+    background-color: #3F8A89;
+}
+.ft_ul{
+    list-style: none;
+    display: flex;
+    position: relative;
+    margin-left: 45px;
+    text-decoration: none;
+
+}
+.ft_ul a{
+    padding-left: 50px ;
+    text-decoration: none;
+    list-style: none;
+}
+
+footer{
+    background-color:#123A38 ;
+    color: white;
+}
+
+body{
+    display: inline-block;
+    background-color: #123A38;
+}
+
+.card-body{
+    text-align: center;
+}
+
+.card2{
+    border-radius: 5px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    border: solid;
+}
+
+#exp .carousel{
+    border: solid;
+    border-color: #3F8A89;
+    border-radius: 20px;
+    background-color: #3F8A89;
+    margin-top: 2px;
+}
+
+#exp img{
+    border: solid;
+    border-radius: 20px;
+}
